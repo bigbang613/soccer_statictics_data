@@ -1,0 +1,191 @@
+[
+ {
+   "FIELD1": "Div",
+   "FIELD2": "Date",
+   "FIELD3": "HomeTeam",
+   "FIELD4": "AwayTeam",
+   "FIELD5": "FTHG",
+   "FIELD6": "FTAG",
+   "FIELD7": "FTR"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "20/08/17",
+   "FIELD3": "La Coruna",
+   "FIELD4": "Real Madrid",
+   "FIELD5": "0",
+   "FIELD6": "3",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "27/08/17",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "Valencia",
+   "FIELD5": "2",
+   "FIELD6": "2",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "09/09/17",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "Levante",
+   "FIELD5": "1",
+   "FIELD6": "1",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "17/09/17",
+   "FIELD3": "Sociedad",
+   "FIELD4": "Real Madrid",
+   "FIELD5": "1",
+   "FIELD6": "3",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "20/09/17",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "Betis",
+   "FIELD5": "0",
+   "FIELD6": "1",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "23/09/17",
+   "FIELD3": "Alaves",
+   "FIELD4": "Real Madrid",
+   "FIELD5": "1",
+   "FIELD6": "2",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "01/10/17",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "Espanol",
+   "FIELD5": "2",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "14/10/17",
+   "FIELD3": "Getafe",
+   "FIELD4": "Real Madrid",
+   "FIELD5": "1",
+   "FIELD6": "2",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "22/10/17",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "Eibar",
+   "FIELD5": "3",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "29/10/17",
+   "FIELD3": "Girona",
+   "FIELD4": "Real Madrid",
+   "FIELD5": "2",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "05/11/17",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "Las Palmas",
+   "FIELD5": "3",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "18/11/17",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Real Madrid",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "25/11/17",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "Malaga",
+   "FIELD5": "3",
+   "FIELD6": "2",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "02/12/17",
+   "FIELD3": "Ath Bilbao",
+   "FIELD4": "Real Madrid",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "09/12/17",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "Sevilla",
+   "FIELD5": "5",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "23/12/17",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "Barcelona",
+   "FIELD5": "0",
+   "FIELD6": "3",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "07/01/18",
+   "FIELD3": "Celta",
+   "FIELD4": "Real Madrid",
+   "FIELD5": "2",
+   "FIELD6": "2",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "13/01/18",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "Villarreal",
+   "FIELD5": "0",
+   "FIELD6": "1",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "21/01/18",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "La Coruna",
+   "FIELD5": "7",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "27/01/18",
+   "FIELD3": "Valencia",
+   "FIELD4": "Real Madrid",
+   "FIELD5": "1",
+   "FIELD6": "4",
+   "FIELD7": "A"
+ }
+]

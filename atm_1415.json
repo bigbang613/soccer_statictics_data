@@ -1,0 +1,353 @@
+[
+ {
+   "FIELD1": "Div",
+   "FIELD2": "Date",
+   "FIELD3": "HomeTeam",
+   "FIELD4": "AwayTeam",
+   "FIELD5": "FTHG",
+   "FIELD6": "FTAG",
+   "FIELD7": "FTR"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "25/08/14",
+   "FIELD3": "Vallecano",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "30/08/14",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Eibar",
+   "FIELD5": "2",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "13/09/14",
+   "FIELD3": "Real Madrid",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "1",
+   "FIELD6": "2",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "20/09/14",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Celta",
+   "FIELD5": "2",
+   "FIELD6": "2",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "24/09/14",
+   "FIELD3": "Almeria",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "0",
+   "FIELD6": "1",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "27/09/14",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Sevilla",
+   "FIELD5": "4",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "04/10/14",
+   "FIELD3": "Valencia",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "3",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "19/10/14",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Espanol",
+   "FIELD5": "2",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "26/10/14",
+   "FIELD3": "Getafe",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "0",
+   "FIELD6": "1",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "01/11/14",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Cordoba",
+   "FIELD5": "4",
+   "FIELD6": "2",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "09/11/14",
+   "FIELD3": "Sociedad",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "2",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "22/11/14",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Malaga",
+   "FIELD5": "3",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "30/11/14",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "La Coruna",
+   "FIELD5": "2",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "06/12/14",
+   "FIELD3": "Elche",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "0",
+   "FIELD6": "2",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "14/12/14",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Villarreal",
+   "FIELD5": "0",
+   "FIELD6": "1",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "21/12/14",
+   "FIELD3": "Ath Bilbao",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "1",
+   "FIELD6": "4",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "03/01/15",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Levante",
+   "FIELD5": "3",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "11/01/15",
+   "FIELD3": "Barcelona",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "3",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "18/01/15",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Granada",
+   "FIELD5": "2",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "24/01/15",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Vallecano",
+   "FIELD5": "3",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "31/01/15",
+   "FIELD3": "Eibar",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "1",
+   "FIELD6": "3",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "07/02/15",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Real Madrid",
+   "FIELD5": "4",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "15/02/15",
+   "FIELD3": "Celta",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "2",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "21/02/15",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Almeria",
+   "FIELD5": "3",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "01/03/15",
+   "FIELD3": "Sevilla",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "08/03/15",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Valencia",
+   "FIELD5": "1",
+   "FIELD6": "1",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "14/03/15",
+   "FIELD3": "Espanol",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "21/03/15",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Getafe",
+   "FIELD5": "2",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "04/04/15",
+   "FIELD3": "Cordoba",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "0",
+   "FIELD6": "2",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "07/04/15",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Sociedad",
+   "FIELD5": "2",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "11/04/15",
+   "FIELD3": "Malaga",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "2",
+   "FIELD6": "2",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "18/04/15",
+   "FIELD3": "La Coruna",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "1",
+   "FIELD6": "2",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "25/04/15",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Elche",
+   "FIELD5": "3",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "29/04/15",
+   "FIELD3": "Villarreal",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "0",
+   "FIELD6": "1",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "02/05/15",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Ath Bilbao",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "10/05/15",
+   "FIELD3": "Levante",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "2",
+   "FIELD6": "2",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "17/05/15",
+   "FIELD3": "Ath Madrid",
+   "FIELD4": "Barcelona",
+   "FIELD5": "0",
+   "FIELD6": "1",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "SP1",
+   "FIELD2": "23/05/15",
+   "FIELD3": "Granada",
+   "FIELD4": "Ath Madrid",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ }
+]

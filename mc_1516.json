@@ -1,0 +1,353 @@
+[
+ {
+   "FIELD1": "Div",
+   "FIELD2": "Date",
+   "FIELD3": "HomeTeam",
+   "FIELD4": "AwayTeam",
+   "FIELD5": "FTHG",
+   "FIELD6": "FTAG",
+   "FIELD7": "FTR"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "10/08/15",
+   "FIELD3": "West Brom",
+   "FIELD4": "Man City",
+   "FIELD5": "0",
+   "FIELD6": "3",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "16/08/15",
+   "FIELD3": "Man City",
+   "FIELD4": "Chelsea",
+   "FIELD5": "3",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "23/08/15",
+   "FIELD3": "Everton",
+   "FIELD4": "Man City",
+   "FIELD5": "0",
+   "FIELD6": "2",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "29/08/15",
+   "FIELD3": "Man City",
+   "FIELD4": "Watford",
+   "FIELD5": "2",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "12/09/15",
+   "FIELD3": "Crystal Palace",
+   "FIELD4": "Man City",
+   "FIELD5": "0",
+   "FIELD6": "1",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "19/09/15",
+   "FIELD3": "Man City",
+   "FIELD4": "West Ham",
+   "FIELD5": "1",
+   "FIELD6": "2",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "26/09/15",
+   "FIELD3": "Tottenham",
+   "FIELD4": "Man City",
+   "FIELD5": "4",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "03/10/15",
+   "FIELD3": "Man City",
+   "FIELD4": "Newcastle",
+   "FIELD5": "6",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "17/10/15",
+   "FIELD3": "Man City",
+   "FIELD4": "Bournemouth",
+   "FIELD5": "5",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "25/10/15",
+   "FIELD3": "Man United",
+   "FIELD4": "Man City",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "31/10/15",
+   "FIELD3": "Man City",
+   "FIELD4": "Norwich",
+   "FIELD5": "2",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "08/11/15",
+   "FIELD3": "Aston Villa",
+   "FIELD4": "Man City",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "21/11/15",
+   "FIELD3": "Man City",
+   "FIELD4": "Liverpool",
+   "FIELD5": "1",
+   "FIELD6": "4",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "28/11/15",
+   "FIELD3": "Man City",
+   "FIELD4": "Southampton",
+   "FIELD5": "3",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "05/12/15",
+   "FIELD3": "Stoke",
+   "FIELD4": "Man City",
+   "FIELD5": "2",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "12/12/15",
+   "FIELD3": "Man City",
+   "FIELD4": "Swansea",
+   "FIELD5": "2",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "21/12/15",
+   "FIELD3": "Arsenal",
+   "FIELD4": "Man City",
+   "FIELD5": "2",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "26/12/15",
+   "FIELD3": "Man City",
+   "FIELD4": "Sunderland",
+   "FIELD5": "4",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "29/12/15",
+   "FIELD3": "Leicester",
+   "FIELD4": "Man City",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "02/01/16",
+   "FIELD3": "Watford",
+   "FIELD4": "Man City",
+   "FIELD5": "1",
+   "FIELD6": "2",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "13/01/16",
+   "FIELD3": "Man City",
+   "FIELD4": "Everton",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "16/01/16",
+   "FIELD3": "Man City",
+   "FIELD4": "Crystal Palace",
+   "FIELD5": "4",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "23/01/16",
+   "FIELD3": "West Ham",
+   "FIELD4": "Man City",
+   "FIELD5": "2",
+   "FIELD6": "2",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "02/02/16",
+   "FIELD3": "Sunderland",
+   "FIELD4": "Man City",
+   "FIELD5": "0",
+   "FIELD6": "1",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "06/02/16",
+   "FIELD3": "Man City",
+   "FIELD4": "Leicester",
+   "FIELD5": "1",
+   "FIELD6": "3",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "14/02/16",
+   "FIELD3": "Man City",
+   "FIELD4": "Tottenham",
+   "FIELD5": "1",
+   "FIELD6": "2",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "02/03/16",
+   "FIELD3": "Liverpool",
+   "FIELD4": "Man City",
+   "FIELD5": "3",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "05/03/16",
+   "FIELD3": "Man City",
+   "FIELD4": "Aston Villa",
+   "FIELD5": "4",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "12/03/16",
+   "FIELD3": "Norwich",
+   "FIELD4": "Man City",
+   "FIELD5": "0",
+   "FIELD6": "0",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "20/03/16",
+   "FIELD3": "Man City",
+   "FIELD4": "Man United",
+   "FIELD5": "0",
+   "FIELD6": "1",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "02/04/16",
+   "FIELD3": "Bournemouth",
+   "FIELD4": "Man City",
+   "FIELD5": "0",
+   "FIELD6": "4",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "09/04/16",
+   "FIELD3": "Man City",
+   "FIELD4": "West Brom",
+   "FIELD5": "2",
+   "FIELD6": "1",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "16/04/16",
+   "FIELD3": "Chelsea",
+   "FIELD4": "Man City",
+   "FIELD5": "0",
+   "FIELD6": "3",
+   "FIELD7": "A"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "19/04/16",
+   "FIELD3": "Newcastle",
+   "FIELD4": "Man City",
+   "FIELD5": "1",
+   "FIELD6": "1",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "23/04/16",
+   "FIELD3": "Man City",
+   "FIELD4": "Stoke",
+   "FIELD5": "4",
+   "FIELD6": "0",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "01/05/16",
+   "FIELD3": "Southampton",
+   "FIELD4": "Man City",
+   "FIELD5": "4",
+   "FIELD6": "2",
+   "FIELD7": "H"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "08/05/16",
+   "FIELD3": "Man City",
+   "FIELD4": "Arsenal",
+   "FIELD5": "2",
+   "FIELD6": "2",
+   "FIELD7": "D"
+ },
+ {
+   "FIELD1": "E0",
+   "FIELD2": "15/05/16",
+   "FIELD3": "Swansea",
+   "FIELD4": "Man City",
+   "FIELD5": "1",
+   "FIELD6": "1",
+   "FIELD7": "D"
+ }
+]
